@@ -1,0 +1,7 @@
+.sessions/
+.tdata/
+.venv/
+old/
+tdata/
+app/_pycache
+.env
